@@ -30,7 +30,6 @@
     ├── features/              # One file per feature
     │   ├── budgie.nix
     │   ├── cetch.nix
-    │   ├── loaf.nix
     │   ├── mango.nix
     │   ├── niri.nix
     │   ├── noctalia.nix
@@ -85,7 +84,6 @@ nixos-generate-config --show-hardware-config > modules/hosts/my-machine/hardware
 ## 🙏 Credits
 
 - [niri](https://github.com/YaLTeR/niri) by YaLTeR
-- [Loaf](https://github.com/m-uvex/loaf-fm) by m-uvex
 - The NixOS community ❤️
 
 ---
